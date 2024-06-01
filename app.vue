@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-defineOgImageComponent('Default')
+// defineOgImageComponent('Default')
 </script>
